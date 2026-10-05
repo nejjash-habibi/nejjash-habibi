@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Nejash Shukur — JUNDI zRobot
 
-<!--
-**nejjash-habibi/nejjash-habibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇪🇹 Ethiopian Developer • Critical Thinker • Cybersecurity Enthusiast • Digital Creator
 
-Here are some ideas to get you started:
+I'm Nejash Shukur, a 15-year-old Ethiopian self-taught developer and cybersecurity enthusiast known online as JUNDI zRobot and JUNDI zRoot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about AI, software development, automation, computer vision, web development, cybersecurity, ethical penetration testing, and game development. I enjoy building realistic, polished projects and experimenting with ideas that push beyond ordinary software.
+
+🧠 Mindset: Question everything. Understand how things work. Build. Break. Improve. Repeat.
+
+💻 Tech: Python • HTML • CSS • JavaScript • AI • Automation • Computer Vision • Cybersecurity
+
+🛡️ Cybersecurity: Ethical hacking, penetration testing, networking, security research, and defensive security.
+
+🚀 Vision: I'm not interested in simply becoming "advanced." I'm aiming toward what I call the Tera, zeta-MIND stage — a level of thinking beyond the conventional Mega Mind concept, where programming, cybersecurity, AI, creativity, and critical thinking come together.
+
+I'm still young, still learning, and still building — but I'm already working toward becoming someone capable of creating powerful, useful, and genuinely unconventional technology.
+
+«JUNDI zRobot — Think deeper. Build smarter. Go beyond.»
